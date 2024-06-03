@@ -66,16 +66,16 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NCC1/Projeto4">Maya, The Seed</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2024-1-NCC1/Projeto4">FECAP, Guilherme Siqueira, Julia Tosato, Gabriel Mota, Rodrigo Reis</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
-# Assets
+### Assets
 - <a href="https://unity.com/pt/legal/as-terms">Standard Unity Asset Store EULA</a>
 
 ## 🎓 Referências
-# Conceito/Jogabilidade
+### Conceito/Jogabilidade
 Boe-Waal, G. (Diretor). (2014). Operasjon Arktis [Filme Cinematográfico]
 - <a href="https://store.steampowered.com/app/295790/Never_Alone_Kisima_Ingitchuna/">Never Alone</a>
 - <a href="https://store.steampowered.com/app/504230/Celeste/">Celeste</a>
 
-# Assets
+### Assets
 - <a href="https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879">Footsteps - Essentials</a>
 - <a href="https://assetstore.unity.com/packages/3d/props/tools/carpenter-tool-set-97815">Carpenter Tool Set</a>
 - <a href="https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579">Stylize Snow Texture</a>
@@ -98,7 +98,7 @@ Boe-Waal, G. (Diretor). (2014). Operasjon Arktis [Filme Cinematográfico]
 - <a href="https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-woods-232818">Low Poly Woods</a>
 - <a href="https://assetstore.unity.com/packages/3d/props/megapoly-art-urban-props-217030">Megapoly.Art - Urban Props</a>
 
-# Videos
+### Videos
 - <https://www.youtube.com/watch?v=WKJy-dUK2NY&t=560s>
 - <https://www.youtube.com/watch?v=STyY26a_dPY&t=59s>
 - <https://www.youtube.com/watch?v=2kFGmuPHiA0>
