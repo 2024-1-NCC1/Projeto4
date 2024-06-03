@@ -71,4 +71,4 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+Boe-Waal, G. (Diretor). (2014). Operasjon Arktis [Filme Cinematográfico]
