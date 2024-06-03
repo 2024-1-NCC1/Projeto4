@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Jogo. Maya - The Seed
+# Maya - The Seed
 
 ## EdiSons
 
@@ -82,9 +82,8 @@ Boe-Waal, G. (Diretor). (2014). Operasjon Arktis [Filme Cinematográfico]
 - <a href="https://assetstore.unity.com/packages/3d/characters/hand-painted-stones-in-the-snow-62518">Hand-Painted Stones in the Snow</a>
 - <a href="https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866">Boats Polypack</a>
 - <a href="https://assetstore.unity.com/packages/3d/environments/lowpoly-wasteland-props-138348">Lowpoly Wasteland Props</a>
-- <a href="httphttps://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563">LowPoly Water</a>
-- <a href="https://assetstore.unity.com/packages/3d/environments/little-low-poly-world-lite-srp-urp-119111">Little Low Poly World - LITE SRP/URP
-</a>
+- <a href="https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563">LowPoly Water</a>
+- <a href="https://assetstore.unity.com/packages/3d/environments/little-low-poly-world-lite-srp-urp-119111">Little Low Poly World - LITE SRP/URP</a>
 - <a href="https://assetstore.unity.com/account/assets">Low-Poly Simple Nature Pack</a>
 - <a href="https://assetstore.unity.com/packages/3d/environments/urban/modular-lowpoly-streets-free-192094">Modular Lowpoly Streets (Free)</a>
 - <a href="https://assetstore.unity.com/packages/3d/environments/urban/city-voxel-pack-136141">City Voxel Pack</a>
