@@ -14,6 +14,11 @@
 
 ## Descrição
 
+<p align="center">
+  <img src="https://github.com/2024-1-NCC1/Projeto4/blob/main/imagens/tela-inicial.png?raw=true" alt="Maya - The Seed" border="0">
+  Game by Rodrigo Reis, Gabriel Mota, Julia Tosato, Guilherme Siqueira, <a href="https://unity.com/pt/download">Unity</a>
+</p>
+
 <br><br>
 
 Nosso projeto é um jogo que conta a história da garotinha Maya, em meio a um mundo devastado pela poluição que desencadeou uma guerra por recursos entre nações, Maya tem o objetivo de atravessar todo esse caos para encontrar uma semente mágica que quando plantada, pode restaurar toda a fauna e flora da terra.
